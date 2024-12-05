@@ -24,8 +24,8 @@ Beğenilen ve ihtiyaç duyulan ürünleri kategori olarak arayabilme imkanı sun
 
 -  **Takım Üyeleri:**
 
-1 -  [https://github.com/bgmyurttabir] (alperenkarademir)  
-2 - [https://github.com/Erenbydar] (Emirhanbgdyc)
+1 -  [https://github.com/bgmyurttabir] (Begüm Yurttabir)  
+2 - [https://github.com/Erenbydar] (Eren Baydar)
 
 
 
@@ -149,7 +149,7 @@ lib/
 
 ## İletişim
 
-- Proje Bağlantısı:[https://github.com/Emirhanbgdyc/Markaj_Gazetesi] 
+- Proje Bağlantısı:[https://github.com/bgmyurttabir/Celestia-Boutique-Mobile-Flutter] 
 
 - İstinye Üniversitesi: [https://www.istinye.edu.tr/](https://www.istinye.edu.tr/)
 
