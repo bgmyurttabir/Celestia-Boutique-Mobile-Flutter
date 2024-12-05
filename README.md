@@ -10,8 +10,9 @@
 
 ## Proje Hakkında
 
-[Bu uygulamamız, kullanıcıları Dünyadaki başlıca Futbol ve Spor dalları ile ilgili anlık haberleri sunarak bilgilendirir ve gündem akışında tutar.
-Kullanıcılar bu uygulamayla farklı spor dallarını görüntüleyebilir ve bilgileri ,haberleri tek bir uygulamada sunar ve paylaşır.]
+[Bu uygulama kişisel hayalimizdeki mağazamızın uygulamasıdır.
+ Kullanıcılarımıza veya hitap ettiğimiz online alışveriş kitlesine fiziksel olarak zaman kazandırarak 
+Beğenilen ve ihtiyaç duyulan ürünleri kategori olarak arayabilme imkanı sunar geliştirilme aşamasında ise ilerleyen süreçte oturum açma , kaydolma ve sipariş oluşturma özellikleri de sunmaya hazırlanacaktır.]
 
 
 
@@ -23,9 +24,8 @@ Kullanıcılar bu uygulamayla farklı spor dallarını görüntüleyebilir ve bi
 
 -  **Takım Üyeleri:**
 
-1 -  [https://github.com/alperenkarademir] (alperenkarademir)  
-2 - [https://github.com/Emirhanbgdyc] (Emirhanbgdyc)
-3 - [https://github.com/Emirbulutt] (Emirbulutt)
+1 -  [https://github.com/bgmyurttabir] (alperenkarademir)  
+2 - [https://github.com/Erenbydar] (Emirhanbgdyc)
 
 
 
