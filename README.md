@@ -24,8 +24,10 @@ Beğenilen ve ihtiyaç duyulan ürünleri kategori olarak arayabilme imkanı sun
 
 -  **Takım Üyeleri:**
 
-1 -  [https://github.com/bgmyurttabir] (Begüm Yurttabir)  
-2 - [https://github.com/Erenbydar] (Eren Baydar)
+1 -  [https://github.com/bgmyurttabir] (2320161122-Begüm Yurttabir)  
+2 - [https://github.com/Erenbydar] (2320161135-Eren Baydar)
+2320161122 Begüm Yurttabir shop_wiew.dart anasayfa alışveriş sayfasını yazdı , drawer menü oluşturdu, katagorileri oluşturdu.
+2320161135 Eren Baydar main_wiew.dart giriş ekranını tasarladı ve yazdı uygulmanın logosunu oluşturdu tasarladı.
 
 
 
