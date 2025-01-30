@@ -128,7 +128,7 @@ lib/
 
 ## Ekran Görüntüleri
 
-[Uygulama ekran görüntüleri buraya eklenecek]
+[(https://www.youtube.com/shorts/ho_DM0MubVQ)]
 
 
 
