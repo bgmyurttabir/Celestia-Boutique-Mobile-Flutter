@@ -11,7 +11,8 @@ class MainApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: MainView()
+      debugShowCheckedModeBanner: false, // Debug yazısını kaldırır
+      home: MainView(),
     );
   }
 }
