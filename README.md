@@ -2,6 +2,9 @@
 
 # Flutter Projesi
 
+#uygulamamın demo video bağlantısı
+[![YouTube Shorts](https://img.youtube.com/vi/ho_DM0MubVQ/0.jpg)](https://youtube.com/shorts/ho_DM0MubVQ)
+
 
 
 ![İstinye Üniversitesi](https://www.unitededucation.com/linklogoch/istinye-university-logo.png)
